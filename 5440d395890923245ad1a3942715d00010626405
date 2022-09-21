@@ -1,1 +1,3 @@
 image: ghcr.io/paralika/demo-app:fffa57e740da9a70f4c08acc3385765d2ca48ae3
+
+env: stage
