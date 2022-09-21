@@ -3,3 +3,7 @@ kind: Kustomization
 
 resources:
 - ../../base
+images:
+- name: ghcr.io/argocon2022-workshop/demo-app
+  newName: ghcr.io/paralika/demo-app
+  newTag: fffa57e740da9a70f4c08acc3385765d2ca48ae3
