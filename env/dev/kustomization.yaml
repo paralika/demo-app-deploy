@@ -8,4 +8,3 @@ images:
 - name: ghcr.io/argocon2022-workshop/demo-app
   newName: ghcr.io/paralika/demo-app
   newTag: 13bf62a15195621b111375ee98aad50574fce4b6
-  
